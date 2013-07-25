@@ -223,6 +223,7 @@
   border-top: 1px solid #fff;
   border-bottom: 1px solid #ddd;
   height: 40px;
+  padding-right: 10px;
   background-color: #f6f6f6;
   background-image: -moz-linear-gradient(top, #fafafa, #f2f2f2);
   background-image: -webkit-linear-gradient(top, #fafafa, #f2f2f2);
@@ -236,7 +237,7 @@
 }
 
 .pi-block-subline {
-  margin: 10px 10px 0 0;
+  margin: 10px 0 0 0;
 }
 
 .pi-block-body {
@@ -278,9 +279,7 @@
 .pi-block-tab .active a {
   background: #fff;
   border-left-color: #ddd !important;
-  ;
   border-right-color: #ddd !important;
-  ;
   color: #333;
   font-weight: bold;
 }
